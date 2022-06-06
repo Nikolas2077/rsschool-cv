@@ -5,6 +5,7 @@
 * **Phone:** +79912769662
 * **Email:** nikos.ioanidis@gmail.com
 * **GitHub:** Nikos2077
+* **Discord:** Nikos
 ## About me
 I want to become programmers in the IT industry
 ## English 
